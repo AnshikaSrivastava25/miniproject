@@ -15,7 +15,9 @@
   outline: 0 !important;
   outline-offset: 0;
 }
-
+a{
+  font:var(--secondry-font);
+}
 a,
 a:hover {
   text-decoration: none;
@@ -34,8 +36,8 @@ ol {
 
 /*===== Variable Define =====*/
 :root {
-  --primary-color: #5835bb;
-  --secondry-color: #240638;
+  --primary-color: #04690d;
+  --secondry-color: #201b24;
   --third-color: #f98169;
   --white-color: rgb(247, 242, 242);
   --text-color: rgb(32, 12, 12);
@@ -192,6 +194,8 @@ p {
   z-index:1000;
   -webkit-transition:all 0.3s ease-out;
   transition:all 0.3s ease-out;
+
+  
 } 
 .navigation-wrap .nav-item{
   padding:0 0.625rem;
@@ -203,10 +207,10 @@ p {
   box-shadow: none;
 }
 .nav-link{
-  font-size:0.9375rem;
+  font-size:1.25rem;
   font-weight: 600;
   text-transform: capitalize;
-  color:var(--primary-color);
+  color:var(--secondry-color);
   letter-spacing: 1px;
 }
 .navigation-wrap .main-btn{
@@ -215,10 +219,11 @@ p {
   margin-left:0.625rem;
 } 
 
+
 /* Change navbar styling on scroll */
 
 .navigation-wrap.scroll-on{
-  /* position:fixed; */
+  position:fixed;
   top:0;
   left:0;
   width:100%;
@@ -238,7 +243,7 @@ p {
   width:100%;
   background: url('../images/headerimage.jpg') no-repeat center;
   background-size:cover;
-  padding:16.875rem 0 9.375rem;
+  padding: 21.875rem 0 9.375rem  9.375rem;
 }
 
  
