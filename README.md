@@ -14,6 +14,15 @@ The main aim of this project is to provide information to the users about the he
 Users will get real-time updated recipes as per their calories intake and their needs . They can get information on  how much calories , fats , macros they are taking in-total. 
  Quick healthy meal plan is provided along with recipes that they can cook at home in minimum timing and pre-prepare their meal. 
 ![image](https://user-images.githubusercontent.com/75130949/155853931-5b1295ba-a668-4111-81d2-5299a8269d6f.png)
+![image](https://user-images.githubusercontent.com/75130949/155853974-ed6927b0-5acb-4c53-9386-0992b0e7c412.png)
+
+User can choose his/her diet plan and according to it various healthy food recipe’s would be recommended to the user.
+By maintaining a healthy diet one can maintain a healthy lifestyle which can improve their productivity , feel younger and more energetic .
+Help user find the suitable  diet plan according to number of calories a person wants to intake throughout a day.
+Several diet plans are available to the user’s .  If they want to follow a particular diet plan like weight loss meal plan, Keto meal plan, they can customise their  meal plan accordingly .
+Several blogs and recipes will be their which users can prefer .
+![image](https://user-images.githubusercontent.com/75130949/155853983-bc31fe9c-ef96-4a9e-adca-be93bdc59424.png)
+
 
 
 
