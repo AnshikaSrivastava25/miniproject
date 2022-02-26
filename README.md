@@ -17,9 +17,9 @@ Users will get real-time updated recipes as per their calories intake and their 
 ![image](https://user-images.githubusercontent.com/75130949/155853931-5b1295ba-a668-4111-81d2-5299a8269d6f.png)
 
 User can choose his/her diet plan and according to it various healthy food recipe’s would be recommended to the user.
-By maintaining a healthy diet one can maintain a healthy lifestyle which can improve their productivity , feel younger and more energetic .
+By maintaining a healthy diet one can maintain a healthy lifestyle which can improve their productivity , feel younger and more energetic.
 Help user find the suitable  diet plan according to number of calories a person wants to intake throughout a day.
-Several diet plans are available to the user’s .  If they want to follow a particular diet plan like weight loss meal plan, Keto meal plan, they can customise their  meal plan accordingly .
+Several diet plans are available to the user’s. If they want to follow a particular diet plan like weight loss meal plan, Keto meal plan, they can customise their  meal plan accordingly .
 Several blogs and recipes will be their which users can prefer .
 ![image](https://user-images.githubusercontent.com/75130949/155853983-bc31fe9c-ef96-4a9e-adca-be93bdc59424.png)
 
